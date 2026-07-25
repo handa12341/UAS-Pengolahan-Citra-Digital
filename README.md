@@ -24,6 +24,8 @@ Arsitektur: (100, 50) hidden layers
 Total Gambar: ±4000 gambar
 
 Hasil
+Total Data: ±4000 gambar
+
 Akurasi: [Masukkan hasil akurasi]
 
 Precision: [Masukkan hasil precision]
